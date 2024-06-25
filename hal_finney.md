@@ -11,7 +11,7 @@
 - [on lesswrong](https://bitcointalk.org/index.php?topic=2833.msg38762#msg38762)
 - [properties of ideal money](https://bitcointalk.org/index.php?topic=2966.msg41328#msg41328)
 - [very large signing keys](https://bitcointalk.org/index.php?topic=2127.msg57879#msg57879)
-- [bitcon and me](https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833)
+- [bitcoin and me](https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833)
 
 
 ### lesswrong:
