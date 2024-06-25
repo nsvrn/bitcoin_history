@@ -1,0 +1,3 @@
+- [blog: unenumerated](https://unenumerated.blogspot.com/) 
+- [website archive](https://web.archive.org/web/20160329013125/http://szabo.best.vwh.net/)
+- [essay: origins of money](https://web.archive.org/web/20160331174418/http://szabo.best.vwh.net/shell.html)
