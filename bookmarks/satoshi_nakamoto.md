@@ -20,6 +20,7 @@
 - ["How long have you been working on this design Satoshi?"](https://bitcointalk.org/index.php?topic=195.msg1617#msg1617)
 - ["Lost coins only make everyone else's coins worth slightly more"](https://bitcointalk.org/index.php?topic=198.msg1647#msg1647)
 - [Scalability, SPV](https://bitcointalk.org/index.php?topic=286.msg2947#msg2947)
+- [More on SPV client](https://bitcointalk.org/index.php?topic=125.msg1149#msg1149)
 - ["What amount does one have to send to incur a transaction fee though?"](https://bitcointalk.org/index.php?topic=431.msg4073#msg4073)
 - ["They want to delete the wikipedia article"](https://bitcointalk.org/index.php?topic=342.msg4508#msg4508)
 - [Initial block download improvement, 5x faster](https://bitcointalk.org/index.php?topic=550.msg5349#msg5349)
