@@ -12,3 +12,5 @@
 - [Satoshi Nakamoto](/bookmarks/satoshi_nakamoto.md)
 - [Hal Finney](/bookmarks/hal_finney.md)
 - [Nick Szabo](/bookmarks/nick_szabo.md)
+- [Cypherpunks](/bookmarks/cypherpunks.md)
+- [Austrian Econ](/bookmarks/austrian.md)

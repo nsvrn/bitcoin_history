@@ -1,3 +1,4 @@
+### Emails
 
 - [Cryptography mailing list archive of Satoshi's messages](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=satoshi&x=0&y=0)
 - [Bitcoin announcement on P2P foundation forum](http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source)
@@ -8,4 +9,54 @@
 
 ### bitcointalk
 
-- TODO
+(this list only contains select posts based on relevance/importance, [full list](https://bitcointalk.org/index.php?action=profile;u=3;sa=showPosts))
+
+- [Wecome to the new Bitcoin forum (first post)](https://bitcointalk.org/index.php?topic=5.msg28#msg28)
+- [Bitcoin address collisions](https://bitcointalk.org/index.php?topic=62.msg443#msg443)
+- [Who is bitcoin.com](https://bitcointalk.org/index.php?topic=88.msg806#msg806)
+- [Hostnames instead of IP addresses](https://bitcointalk.org/index.php?topic=158.msg1322#msg1322)
+- [Dealing with SHA256 collisions](https://bitcointalk.org/index.php?topic=191.msg1585#msg1585)
+- ["once version 0.1 was released, the core design was set in stone for the rest of its lifetime"](https://bitcointalk.org/index.php?topic=195.msg1611#msg1611)
+- ["How long have you been working on this design Satoshi?"](https://bitcointalk.org/index.php?topic=195.msg1617#msg1617)
+- ["Lost coins only make everyone else's coins worth slightly more"](https://bitcointalk.org/index.php?topic=198.msg1647#msg1647)
+- [Scalability, SPV](https://bitcointalk.org/index.php?topic=286.msg2947#msg2947)
+- ["What amount does one have to send to incur a transaction fee though?"](https://bitcointalk.org/index.php?topic=431.msg4073#msg4073)
+- ["They want to delete the wikipedia article"](https://bitcointalk.org/index.php?topic=342.msg4508#msg4508)
+- [Initial block download improvement, 5x faster](https://bitcointalk.org/index.php?topic=550.msg5349#msg5349)
+- [Stealing coins, RIPEMD-160](https://bitcointalk.org/index.php?topic=571.msg5754#msg5754)
+- ["Upgrade to 0.3.6 ASAP"](https://bitcointalk.org/index.php?topic=626.msg6451#msg6451)
+- ["I think most P2P networks can be DoS attacked in numerous ways"](https://bitcointalk.org/index.php?topic=287.msg7687#msg7687)
+- ["Who's the Spanish jerk draining the faucet"](https://bitcointalk.org/index.php?topic=704.msg7703#msg7703)
+- [Escrow txs/multisig](https://bitcointalk.org/index.php?topic=645.msg7712#msg7712)
+- [Unsigned int is good until 2106](https://bitcointalk.org/index.php?topic=760.msg8413#msg8413)
+- [Key blinding](https://bitcoint[alk.org/index.php?topic=770.msg9074#msg9074)
+- [Block 74,638 overflow bug PATCH 0.3.10](https://bitcointalk.org/index.php?topic=827.msg9590#msg9590)
+- ["It looks like we overtook the bad chain somewhere around 74689"](https://bitcointalk.org/index.php?topic=823.msg9734#msg9734)
+- ["We need to cause a reorg"](https://bitcointalk.org/index.php?topic=832.msg9754#msg9754)
+- [Checkpointing the block chain](https://bitcointalk.org/index.php?topic=834.msg9816#msg9816)
+- [Development of alert system](https://bitcointalk.org/index.php?topic=898.msg10722#msg10722)
+- ["They kind of botched C++ streams standard in the 90s"](https://bitcointalk.org/index.php?topic=921.msg11399#msg11399)
+- [Big endian code problems](https://bitcointalk.org/index.php?topic=816.msg11610#msg11610)
+- ["Bitcoin clients only create and recognize txs that match two possible templates"](https://bitcointalk.org/index.php?topic=999.msg12240#msg12240)
+- [Switch to GPL](https://bitcointalk.org/index.php?topic=989.msg12494#msg12494)
+- [Bugtracking software](https://bitcointalk.org/index.php?topic=1063.msg13211#msg13211)
+- ["po*n guys"](https://bitcointalk.org/index.php?topic=671.msg13844#msg13844)
+- [BitCoin wikipedia page DELETED!!!](https://bitcointalk.org/index.php?topic=652.msg14729#msg14729)
+- [Re: How to overthrow the GPU Oligarchs](https://bitcointalk.org/index.php?topic=1332.msg15142#msg15142)
+- [Increase block size limit](https://bitcointalk.org/index.php?topic=1347.msg15366#msg15366)
+- ["Messages should not be recorded in the block chain"](https://bitcointalk.org/index.php?topic=1545.msg18250#msg18250)
+- ["Priority is sum(valuein * age) / txsize"](https://bitcointalk.org/index.php?topic=1668.msg21896#msg21896)
+- ["I make this appeal to WikiLeaks not to try to use Bitcoin."](https://bitcointalk.org/index.php?topic=1735.msg26999#msg26999)
+- ["I came to agree with Gavin about whitelisting"](https://bitcointalk.org/index.php?topic=2162.msg28549#msg28549)
+- ["Currently, double-spends are never accepted into the transaction pool"](https://bitcointalk.org/index.php?topic=2181.msg28729#msg28729)
+- ["Piling every proof-of-work quorum system in the world into one dataset doesn't scale."](https://bitcointalk.org/index.php?topic=1790.msg28917#msg28917)
+- [BitDNS thread, "the work per domain could be on schedule that grows with Moore's Law"](https://bitcointalk.org/index.php?topic=1790.msg28963#msg28963)
+- ["That means a lot coming from you, Hal.  Thanks."](https://bitcointalk.org/index.php?topic=2188.msg29259#msg29259)
+- ["WikiLeaks has kicked the hornet's nest, and the swarm is headed towards us."](https://bitcointalk.org/index.php?topic=2216.msg29280#msg29280)
+- [0.3.19 added some DoS limits, "there's more work to do on DoS"(last post)](https://bitcointalk.org/index.php?topic=2228.msg29479#msg29479)
+
+
+
+(
+    Releases: [0.2](https://bitcointalk.org/index.php?topic=16.msg73#msg73) | [0.3](https://bitcointalk.org/index.php?topic=238.msg2004#msg2004) | [0.3.3](https://bitcointalk.org/index.php?topic=570.msg5707#msg5707) | [0.3.6](https://bitcointalk.org/index.php?topic=626.msg6451#msg6451) | [0.3.10](https://bitcointalk.org/index.php?topic=827.msg9590#msg9590) | [0.3.11](https://bitcointalk.org/index.php?topic=941.msg11439#msg11439) | [0.3.12](https://bitcointalk.org/index.php?topic=999.msg12240#msg12240) | [0.3.13](https://bitcointalk.org/index.php?topic=1327.msg14788#msg14788) | [0.3.14](https://bitcointalk.org/index.php?topic=1528.msg17924#msg17924) | [0.3.15](https://bitcointalk.org/index.php?topic=1780.msg21897#msg21897) | [0.3.18](https://bitcointalk.org/index.php?topic=2162.msg28302#msg28302) | [0.3.19](https://bitcointalk.org/index.php?topic=2228.msg29479#msg29479)
+)

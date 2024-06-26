@@ -1,4 +1,5 @@
-### bitcointalk
+### bitcointalk 
+(this list only contains select posts based on relevance/importance, [full list](https://bitcointalk.org/index.php?action=profile;u=2436;sa=showPosts))
 
 - [secp256k1](https://bitcointalk.org/index.php?topic=2699.msg36589#msg36589)
 - [Speeding up signature verification](https://bitcointalk.org/index.php?topic=3238.msg45461#msg45461)
@@ -12,6 +13,8 @@
 - [On lesswrong](https://bitcointalk.org/index.php?topic=2833.msg38762#msg38762)
 - [Properties of ideal money](https://bitcointalk.org/index.php?topic=2966.msg41328#msg41328)
 - [Very large signing keys](https://bitcointalk.org/index.php?topic=2127.msg57879#msg57879)
+- ["I didn't know that miners worked that way"](https://bitcointalk.org/index.php?topic=2968.msg41453#msg41453)
+- [bitcents, millicents and microcents](https://bitcointalk.org/index.php?topic=3574.0)
 - [Bitcoin and me](https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833)
 
 
