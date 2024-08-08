@@ -8,7 +8,7 @@
 
 - Test your backup atleast once by recovering it from scratch before committing all of the intended funds
 
-- Air-gap/PSBT or use clean devices with operating system free of any malicious software
+- Air-gap/PSBT or atleast use clean devices with operating system free of any malicious software or SSH/remote access
 
 - Verify the outputs for amounts and addresses before broadcasting every tx (on hw wallet screens and broadcasting software in case of a PSBT)
 
