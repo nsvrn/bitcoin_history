@@ -1,7 +1,7 @@
 #### Points to remember:
 - Always verify checksum and signatures of hw/sw wallet firmware/software and any additional sw authenticity verification available specific to the software
 
-- Always have a **complete** backup (derivation paths not applicable to BIP32):
+- Always have a **complete** backup (BIP39 scheme):
     - single-sig: seed-words, derivation path
     - multi-sig: seed-words, derviation paths and **ALL** of the xpubs
     - corresponding passphrases (if used)
