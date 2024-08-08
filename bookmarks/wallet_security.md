@@ -6,7 +6,7 @@
     - multi-sig: seed-words, derviation paths and **ALL** of the xpubs
     - corresponding passphrases (if used)
 
-- Test your backup atleast once by recovering it from scratch
+- Test your backup atleast once by recovering it from scratch before committing all of the intended funds
 
 - Air-gap/PSBT or use clean devices with operating system free of any malicious software
 
