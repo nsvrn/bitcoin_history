@@ -1,6 +1,7 @@
 - [BIP39 not in Bitcoin Core](https://bitcoin.stackexchange.com/questions/88237/is-there-a-reason-to-why-bitcoin-core-does-not-implement-bip39)
 - [Overview of anti-covert-channel signing, Wuille](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-March/017667.html)
-- [Anti-exfil/klepto](https://bitbox.swiss/blog/anti-klepto-explained-protection-against-leaking-private-keys/)
+- [Anti-exfil, Andrew Poelstra](https://blog.blockstream.com/anti-exfil-stopping-key-exfiltration/)
+- [Anti-exfil/klepto, Bitbox](https://bitbox.swiss/blog/anti-klepto-explained-protection-against-leaking-private-keys/)
 
 
 
