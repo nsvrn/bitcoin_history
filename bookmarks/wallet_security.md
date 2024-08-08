@@ -1,7 +1,7 @@
 #### Points to remember:
 - Always have a **complete** backup (derivation paths not applicable to BIP32):
     - single-sig: seed-words, derivation path
-    - multi-sig: seed-words, derviation paths and ALL of the xpubs
+    - multi-sig: seed-words, derviation paths and **ALL** of the xpubs
     - corresponding passphrases (if used)
 
 - Test your backup atleast once by recovering it from scratch
