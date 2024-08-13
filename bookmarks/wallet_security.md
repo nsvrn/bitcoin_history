@@ -1,5 +1,6 @@
 #### Points to remember:
 - Always verify checksum and signatures of hw/sw wallet firmware/software and any additional sw authenticity verification available specific to the software 
+    - a checksum verifies that the binary hasn't been modified, whereas GPG signature verifies the attestation done by others that the binary indeed has been compiled from the claimed source-code
     - ref: [Verifying open source sw](https://freedom.press/training/verifying-open-source-software/)
     - example: follow the ["verify download"](https://bitcoincore.org/en/download/) section of Bitcoin-Core
 
