@@ -1,7 +1,9 @@
 #### Points to remember:
-- Always verify checksum and signatures of hw/sw wallet firmware/software and any additional sw authenticity verification available specific to the software
+- Always verify checksum and signatures of hw/sw wallet firmware/software and any additional sw authenticity verification available specific to the software 
+    - ref: [Verifying open source sw](https://freedom.press/training/verifying-open-source-software/)
+    - example: follow the ["verify download"](https://bitcoincore.org/en/download/) section of Bitcoin-Core
 
-- Always have a **complete** backup (BIP39 scheme):
+- Always have a **complete** backup ([BIP39](https://en.bitcoin.it/wiki/BIP_0039) scheme):
     - single-sig: seed-words, derivation path
     - multi-sig: seed-words, derviation paths and **ALL** of the xpubs
     - corresponding passphrases (if used)
@@ -11,6 +13,8 @@
 - Air-gap/PSBT or atleast use clean devices with operating system free of any malicious software or SSH/remote access
 
 - Verify the outputs for amounts and addresses before broadcasting every tx (on hw wallet screens and broadcasting software in case of a PSBT)
+
+- RNG(random number generation) is critical for seed/private-key generation as elliptic-curve-cryptography is dependent on RNGs, adding a high entropy passphrase and/or generating one **accurately** with physical dices has some advatanges in that regard.
 
 
 ---
