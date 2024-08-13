@@ -3,6 +3,11 @@
     - a checksum verifies that the binary hasn't been modified, whereas GPG signature verifies the attestation done by others that the binary indeed has been compiled from the claimed source-code
     - ref: [Verifying open source sw](https://freedom.press/training/verifying-open-source-software/)
     - example: follow the ["verify download"](https://bitcoincore.org/en/download/) section of Bitcoin-Core
+    - example commands assuming you've the sha256sums(fingerprints), sha256sums.asc(signatures) and public gpg keys for importing to your keyring (`gpg --import keys/*`):
+        ```
+            sha256sum --check SHA256SUMS --ignore-missing
+            gpg --verify SHA256SUMS.asc
+        ```
 
 - Always have a **complete** backup ([BIP39](https://en.bitcoin.it/wiki/BIP_0039) scheme):
     - single-sig: seed-words, derivation path
