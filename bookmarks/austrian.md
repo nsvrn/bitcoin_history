@@ -10,4 +10,3 @@
 - [Anatomy of the State, Rothbard](https://mises.org/library/book/anatomy-state)
 - [Books by Mises](https://mises.org/library/collection/ludwig-von-mises-books)
 - [The ethics of money production, Hülsmann](https://mises.org/library/book/ethics-money-production)
-- [Principles of Economics, Menger](https://mises.org/library/book/principles-economics)
