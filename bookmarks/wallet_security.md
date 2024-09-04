@@ -47,5 +47,5 @@
 - [Overview of anti-covert-channel signing, Wuille](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-March/017667.html)
 - [Anti-exfil, Andrew Poelstra](https://blog.blockstream.com/anti-exfil-stopping-key-exfiltration/)
 - [Anti-exfil/klepto, Bitbox](https://bitbox.swiss/blog/anti-klepto-explained-protection-against-leaking-private-keys/)
-- [List of secure element chips](https://bitcointalk.org/index.php?topic=5304483.0)
+- [List of secure element chips in hw wallets](https://bitcointalk.org/index.php?topic=5304483.0)
 
