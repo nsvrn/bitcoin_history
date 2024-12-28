@@ -4,7 +4,7 @@
 
 - To make your node reachable on IPv4 clearnet, enable manual port forwarding for specific machine IP and it's port (8333) and convert bitcoind to a hardened systemd [service](https://gist.github.com/nsvrn/32041c3eaa40eaec654500e5c64f2c78). 
 
-- Some routers might have a VLAN option to create separate/isolated networks.
+- Some routers might have a [VLAN](https://kb.netgear.com/24720/What-is-a-VLAN) option to create separate/isolated networks if needed.
 
 - By default a Bitcoin node running on an IPv4 clearnet, it won't be reachable unless UPnP is enabled in Bitcoin node config and UPnP is enabled on the router.
 
