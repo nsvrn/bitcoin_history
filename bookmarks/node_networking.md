@@ -1,3 +1,5 @@
+#### Notes on making node reachable:
+
 - Avoid DMZ as well as UPnP on the routers, routers usually enable UPnP by default but it should be disabled. If UPnP is enabled on a router then you can't control or know which device(s) on your network could be automatically exposing their IP/ports to the public internet.
 
 - UPnP is OFF by default in both Core and Knots, [link](https://bitcoincore.org/en/2024/07/03/disclose_upnp_rce/)
@@ -13,4 +15,6 @@
 - IPv6 clearnet? : TODO
 
 - To check if your node is reachable: bitnodes dot io 
+
+- Set `maxuploadtarget` appropriately, default is unlimited
 
